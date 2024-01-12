@@ -1,0 +1,6 @@
+[Thumbnailer Entry]
+Type=X-Thumbnailer
+Name=3mf Thumbnailer
+TryExec=python3
+Exec=3mf-thumbnailer %i %o
+MimeType=model/3mf;application/vnd.ms-3mfdocument;application/x-3mf;
