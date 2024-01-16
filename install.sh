@@ -5,7 +5,7 @@ sudo apt install p7zip-full p7zip-rar python3
 
 script="3mf-thumbnailer.py"
 script_dest="/usr/bin/"
-script_name="3mf-thumbnails"
+script_name="3mf-thumbnailer"
 helper="3mf.thumbnailer"
 helper_dest="/usr/share/thumbnailers/"
 
